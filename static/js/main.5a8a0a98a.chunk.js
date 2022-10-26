@@ -62,7 +62,7 @@
                             className: "case-item",
                             children: [Object(d.jsx)("img", {
                                 className: "case-item__icon",
-                                src: ".../assets/images/bank/".concat(t, ".png"),
+                                src: "/assets/images/bank/".concat(t, ".png"),
                                 alt: ""
                             }), Object(d.jsxs)("div", {
                                 children: [Object(d.jsx)("h3", {
